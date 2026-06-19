@@ -6,8 +6,10 @@ https://bitt.netvoiceperu.com:5344/play/2GQlGVvvnhjXhLdVUnHL8yprXG_aTkzfluZbKe2p
 https://bitt.netvoiceperu.com:5344/play/2GQlGVvvnhjXhLdVUnHL8xNI6dGxFtB8Jt84wyEUaDc/m3u8
 #EXTINF:-1,COMlive peru 
 https://bitt.netvoiceperu.com:5344/play/2GQlGVvvnhjXhLdVUnHL8wFFrMMTQmhGoWUk7HT_Cz0/m3u8
-#EXTINF:-1,COM+
+#EXTINF:-1,COM+MUNDIAL 
 http://tvgolat.org:8080//live/amBX5DQqFu/SDqtrAj5BV/281591.ts
+#EXTINF:-1,COM+2 RECOMMUNDIAL 
+http://38.7.207.20:901/live/tv6.m3u8
 #EXTINF:-1,COMHITS 
 http://tvgolat.org:8080//live/amBX5DQqFu/SDqtrAj5BV/274252.ts
 #EXTINF:-1,COMCLUB
