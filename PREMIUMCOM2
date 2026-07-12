@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1,COMHITS SUR
-https://bitt.netvoiceperu.com:5344/play/2GQlGVvvnhjXhLdVUnHL8yprXG_aTkzfluZbKe2pvLY/m3u8
-EXTINF:-1,COMCLUB SUR
-https://bitt.netvoiceperu.com:5344/play/2GQlGVvvnhjXhLdVUnHL8xNI6dGxFtB8Jt84wyEUaDc/m3u8
-#EXTINF:-1,COMlive SUR
-https://bitt.netvoiceperu.com:5344/play/2GQlGVvvnhjXhLdVUnHL8wFFrMMTQmhGoWUk7HT_Cz0/m3u8
-#EXTINF:-1,COM+MUNDIAL sur
-http://207.180.206.213:63011/live/tv6.m3u8
+http://tv.comgo.com.ar/comhits/index.m3u8
+#EXTINF:-1,COMCLUB SUR 
+http://tv.comgo.com.ar/comclub/index.m3u8
+#EXTINF:-1,COMLIVE EUROPA 
+http://tv.comgo.com.ar/comlive/index.m3u8
+#EXTINF:-1,COM+ NORTE
+http://tv.comgo.com.ar/complus/index.m3u8
 #EXTINF:-1,COMHITS PANREGIONAL 
 http://tvgolat.org:8080//live/amBX5DQqFu/SDqtrAj5BV/274252.ts
 #EXTINF:-1,COMCLUB PANREGIONAL 
