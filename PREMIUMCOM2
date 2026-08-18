@@ -1,16 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1,COMHITS nuevo
+#EXTINF:-1,COMHITS
 http://tv.comgo.com.ar/comhits/mpegts?token=TJo0LdYnezQhv3
-#EXTINF:-1,COMCLUB nuevo 
+#EXTINF:-1,COMCLUB
 http://tv.comgo.com.ar/comclub/mpegts?token=TJo0LdYnezQhv3
-#EXTINF:-1,COMLIVE nuevo
+#EXTINF:-1,COMLlive
 http://tv.comgo.com.ar/comlive/mpegts?token=TJo0LdYnezQhv3
-#EXTINF:-1,COM+ tvgo
+#EXTINF:-1,COM+
 http://tv.comgo.com.ar/complus/mpegts?token=TJo0LdYnezQhv3
-#EXTINF:-1,COMHITS PANREGIONAL 
-http://tvgolat.org:8080//live/amBX5DQqFu/SDqtrAj5BV/274252.ts
-#EXTINF:-1,COMCLUB PANREGIONAL 
-http://tvgolat.org:8080//live/amBX5DQqFu/SDqtrAj5BV/274253.ts
-#EXTINF:-1,COMlive NORTE
-http://tvgolat.org:8080//live/amBX5DQqFu/SDqtrAj5BV/274254.ts
