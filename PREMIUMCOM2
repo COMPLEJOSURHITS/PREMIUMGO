@@ -1,13 +1,1 @@
-#EXTM3U url-tvg="https://drive.google.com/uc?export=download&id=14onHYqfabi5SKswHD_mNHdYHpp1ikBsE"
-
-#EXTINF:-1 tvg-id="1" tvg-name="COMHITS" group-title="Comgo Global Media",COMHITS
-http://207.180.206.213/comhits/mpegts?token=TJo0LdYnezQhv3
-
-#EXTINF:-1 tvg-id="2" tvg-name="COMLIVE" group-title="Comgo Global Media",COMLIVE
-http://207.180.206.213/comlive/mpegts?token=TJo0LdYnezQhv3
-
-#EXTINF:-1 tvg-id="3" tvg-name="COM+" group-title="Comgo Global Media",COM+
-http://207.180.206.213/complus/mpegts?token=TJo0LdYnezQhv3
-
-#EXTINF:-1 tvg-id="4" tvg-name="COMCLUB" group-title="Comgo Global Media",COMCLUB
-http://207.180.206.213/comclub/mpegts?token=TJo0LdYnezQhv3
+#EXTM3U 
